@@ -26,6 +26,7 @@ share: true
 - Fenng：[http://book.douban.com/people/Fenng/](https://github.com/ruanyf/reading-list)
 - 陈皓：[http://book.douban.com/people/haoel/](http://book.douban.com/people/haoel/)
 - RednaxelaFX：[http://book.douban.com/people/RednaxelaFX/](http://book.douban.com/people/RednaxelaFX/)
+- 刘未鹏：[https://book.douban.com/people/pongba/](https://book.douban.com/people/pongba/)
 - 陈硕：[http://book.douban.com/people/solstice/](http://book.douban.com/people/solstice/)
 - 勾三股四：[http://book.douban.com/people/Jinjiang/](http://book.douban.com/people/Jinjiang/)
 - Cat：[http://book.douban.com/people/cat_hsfz/](http://book.douban.com/people/cat_hsfz/)
