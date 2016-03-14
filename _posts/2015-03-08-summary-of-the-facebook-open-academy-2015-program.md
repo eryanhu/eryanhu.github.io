@@ -104,6 +104,7 @@ git 命令行完成了合并。
 
 第二天下午去 Facebook 园区门口的“点赞”牌前拍照：
 
+![Facebook Open Academy]({{ site.url }}/assets/img/8F5667408B2A9D45330E93F74164A050.jpg)
 ![Facebook Open Academy]({{ site.url }}/assets/img/20150308-20.jpg)
 
 第二天在活动会议室展示 [Oculus Rift] 头戴式虚拟现实显示器：
