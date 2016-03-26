@@ -26,6 +26,7 @@ share: true
 - Fenng：[http://book.douban.com/people/Fenng/](https://github.com/ruanyf/reading-list)
 - 陈皓：[http://book.douban.com/people/haoel/](http://book.douban.com/people/haoel/)
 - RednaxelaFX：[http://book.douban.com/people/RednaxelaFX/](http://book.douban.com/people/RednaxelaFX/)
+- vczh：[http://www.cppblog.com/vczh/archive/2013/03/24/198769.html](http://www.cppblog.com/vczh/archive/2013/03/24/198769.html)
 - 刘未鹏：[https://book.douban.com/people/pongba/](https://book.douban.com/people/pongba/)
 - 邹欣：[https://book.douban.com/people/xinz/](https://book.douban.com/people/xinz/)
 - Milo：[https://book.douban.com/people/miloyip/](https://book.douban.com/people/miloyip/)
