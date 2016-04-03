@@ -17,7 +17,7 @@ share: true
 
 **[如何写面向互联网公司的求职简历](http://blog.devtang.com/blog/2013/12/22/how-to-write-resume-for-it-company/)**（唐巧，猿题库）
 
-**[禅与写简历的艺术](http://blog.devtang.com/blog/2013/12/22/how-to-write-resume-for-it-company/)**（ZoomFeng，阿里巴巴）
+**[禅与写简历的艺术](http://www.zoomfeng.com/blog/shan-yu-xie-jian-li-de-yi-zhu.html)**（ZoomFeng，阿里巴巴）
 
 #### 1.2 普通向
 
@@ -76,3 +76,7 @@ share: true
 ### 3. 总结
 
 关于怎么做简历上面的链接已经说的相当详细，以上列出的优秀简历也大都是开源的。在此就补充一点关于在线简历的问题：有些简历做的非常炫酷，但是 HR 无法打印，或者说打印出来的效果比在线的差得多。很多时候面试官可能没有那么多时间去看在线简历上的内容，所以在提供炫酷的在线简历的同时也提供有良好设计感的 PDF 版简历也是很有必要的，如果是彩色的最好在面试的时候自己带一份彩色硬纸打印的简历。
+
+### 4. 扩展阅读
+
+**[关于前端面试](https://mdluo.github.io/blog/about-front-end-interview/)**
