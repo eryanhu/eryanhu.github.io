@@ -57,8 +57,6 @@ share: true
 
 **[史上最全 前端开发面试问题及答案整理](https://github.com/hawx1993/Front-end-Interview-questions)**（trigkit4，口袋购物）
 
-**[最全前端开发面试问题及答案整理](https://github.com/AutumnsWind/Front-end-questions-to-the-interview-stage)**（AutumnsWind）
-
 **[前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)**（马云云，ZTE）
 
 **[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)**（邱德清，阿里妈妈）
