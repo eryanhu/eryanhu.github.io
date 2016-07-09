@@ -6,13 +6,12 @@ comments: true
 share: true
 ---
 
-<p class="lead">一个 node 项目里用到了 `node-sass@3.8.0` ，安装的时候在这一步：
+<p class="lead">一个 node 项目里用到了 `node-sass@3.8.0` ，安装的时候在这一步：</p>
 
 ```bash
 > node-sass@3.8.0 install path/to/project/node_modules/node-sass
 > node scripts/install.js
 ```
-</p>
 
 一直卡住，至少有半个小时没反应，自己的 Mac 和腾讯云的服务器上都是这样
 
