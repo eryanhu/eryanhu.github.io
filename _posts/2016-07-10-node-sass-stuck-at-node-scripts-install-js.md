@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "node-sass 安装卡在 node scripts/install.js 解决办法"
-tags: node.js sass
+tags: node js sass
 comments: true
 share: true
 ---
 
-<p class="lead">一个 node 项目里用到了 `node-sass@3.8.0` ，安装的时候在这一步：</p>
+<p class="lead">一个 node 项目里用到了 `node-sass@3.8.0` ，安装的时候在这一步：
 
 ```bash
 > node-sass@3.8.0 install path/to/project/node_modules/node-sass
@@ -14,6 +14,8 @@ share: true
 ```
 
 一直卡住，至少有半个小时没反应，自己的 Mac 和腾讯云的服务器上都是这样
+
+</p>
 
 去看 `node_modules/node-sass/scripts/install.js` 的[代码](https://github.com/sass/node-sass/blob/master/scripts/install.js#L101)，发现是要在 GitHub 上下载编译好的 `node-sass` 二进制包 ，去看 node-sass 的 [Release](https://github.com/sass/node-sass/releases/tag/v3.8.0)，平均在 2.5 MB 左右
 
