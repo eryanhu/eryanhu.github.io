@@ -19,6 +19,16 @@
     fill: $github-dark-color;
   }
 }
+.icon.icon-twitter:hover {
+  > svg path {
+    fill: $twitter-blue-color;
+  }
+}
+.icon.icon-medium:hover {
+  > svg path {
+    fill: $medium-black-color;
+  }
+}
 .icon.icon-zhihu:hover {
   > svg path {
     fill: $zhihu-blue-color;
