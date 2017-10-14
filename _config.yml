@@ -14,20 +14,17 @@ enforce_ssl:      mdluo.github.io
 repo:             https://github.com/mdluo/mdluo.github.io
 disqus_name:      "mdluo"
 disqus_site_name: "Mingdong's Blog"
-cnd:              //mdluo.b0.upaiyun.com/blog
 
 # Author settings
 author:
   name:       "Mingdong Luo"
   first_name: "Mingdong"
-  email:      mdluo@nsmss.com
   url:        https://mdluo.github.io
   github:     https://github.com/mdluo
+  twitter:    https://twitter.com/mdluo
+  medium:     https://medium.com/@mdluo
   zhihu:      https://www.zhihu.com/people/mdluo
-  douban:     https://book.douban.com/people/mdluo/
   v2ex:       https://www.v2ex.com/member/mdluo
-  weibo:      http://weibo.com/mindom
-  sf:         https://segmentfault.com/u/mdluo
 
 # Build settings
 permalink:    /blog/:title/
