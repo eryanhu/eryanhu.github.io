@@ -11,7 +11,7 @@ description:      "This is a personal blog of Mingdong on Github Pages."
 url:              https://lvqin614.github.io
 enforce_ssl:      lvqin614.github.io
 
-repo:             https://github.com/lvqin614/github.io
+repo:             https://lvqin614/github.io
 disqus_name:      "lvqin"
 disqus_site_name: "lvqin's Blog"
 
@@ -21,10 +21,10 @@ author:
   first_name: "lvqin"
   url:        https://mdluo.github.io
   github:     https://github.com/lvqin614
-  twitter:    https://twitter.com/mdluo
-  medium:     https://medium.com/@mdluo
-  zhihu:      https://www.zhihu.com/people/mdluo
-  v2ex:       https://www.v2ex.com/member/mdluo
+  twitter:    
+  medium:     
+  zhihu:      
+  v2ex:       
 
 # Build settings
 permalink:    /blog/:title/
