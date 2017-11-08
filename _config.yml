@@ -6,21 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # SEO settings
-title:            "Mingdong's blog"
+title:            "lvqin's blog"
 description:      "This is a personal blog of Mingdong on Github Pages."
-url:              https://mdluo.github.io
-enforce_ssl:      mdluo.github.io
+url:              https://lvqin614.github.io
+enforce_ssl:      lvqin614.github.io
 
-repo:             https://github.com/mdluo/mdluo.github.io
-disqus_name:      "mdluo"
-disqus_site_name: "Mingdong's Blog"
+repo:             https://github.com/lvqin614/github.io
+disqus_name:      "lvqin"
+disqus_site_name: "lvqin's Blog"
 
 # Author settings
 author:
-  name:       "Mingdong Luo"
-  first_name: "Mingdong"
+  name:       "lvqin"
+  first_name: "lvqin"
   url:        https://mdluo.github.io
-  github:     https://github.com/mdluo
+  github:     https://github.com/lvqin614
   twitter:    https://twitter.com/mdluo
   medium:     https://medium.com/@mdluo
   zhihu:      https://www.zhihu.com/people/mdluo
