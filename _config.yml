@@ -8,7 +8,7 @@
 # SEO settings
 title:            "isilentfather's blog"
 description:      "This is a personal blog of isilentfather on Github Pages."
-url:              https://isilentfather.github.io
+url:              https://github.com/isilentfather
 enforce_ssl:      isilentfather.github.io
 
 repo:             https://isilentfather/github.io
