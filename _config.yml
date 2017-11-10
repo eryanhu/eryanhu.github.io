@@ -6,21 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # SEO settings
-title:            "isilentfather's blog"
+title:            "eryanhu's blog"
 description:      "This is a personal blog of isilentfather on Github Pages."
-url:              https://github.com/isilentfather
-enforce_ssl:      isilentfather.github.io
+url:              https://github.com/eryanhu
+enforce_ssl:      eryanhu.github.io
 
-repo:             https://github.com/isilentfather
-disqus_name:      "isilentfather"
-disqus_site_name: "isilentfather's Blog"
+repo:             https://github.com/eryanhu
+disqus_name:      "eryanhu"
+disqus_site_name: "eryanhu's Blog"
 
 # Author settings
 author:
-  name:       "eyh"
-  first_name: "eyh"
-  url:        https://github.com/isilentfather
-  github:     https://github.com/isilentfather
+  name:       "eryanhu"
+  first_name: "eryanhu"
+  url:        https://github.com/eryanhu
+  github:     https://github.com/eryanhu
   twitter:    
   medium:     
   zhihu:      
