@@ -11,7 +11,7 @@ description:      "This is a personal blog of isilentfather on Github Pages."
 url:              https://github.com/isilentfather
 enforce_ssl:      isilentfather.github.io
 
-repo:             https://isilentfather/github.io
+repo:             https://github.com/isilentfather
 disqus_name:      "isilentfather"
 disqus_site_name: "isilentfather's Blog"
 
@@ -19,7 +19,7 @@ disqus_site_name: "isilentfather's Blog"
 author:
   name:       "eyh"
   first_name: "eyh"
-  url:        https://isilentfather.github.io
+  url:        https://github.com/isilentfather
   github:     https://github.com/isilentfather
   twitter:    
   medium:     
