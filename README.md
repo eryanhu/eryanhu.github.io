@@ -1,6 +1,6 @@
 lvqin614.github.io
 ===============
 
-Personal blog of Mingdong on Github Pages
+Personal blog of lvqin on Github Pages
 
 http://lvqin614.github.io
